@@ -1,4 +1,4 @@
-class CreateContains < ActiveRecord::Migration
+class CreateContains < ActiveRecord::Migration[4.2]  
   def change
     create_table :contains do |t|
       t.references :recipe, index: true
