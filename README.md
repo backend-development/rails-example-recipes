@@ -13,5 +13,4 @@ clone this repository, then
 now point your browser at the homepage at http://localhost:3000/
 or at http://localhost:3000/todo.html 
 
-There is a [demo site](https://frozen-oasis-65001.herokuapp.com/) of
-the solution on heroku
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/backend-development/rails-example-recipes)
